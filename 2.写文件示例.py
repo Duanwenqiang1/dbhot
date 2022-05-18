@@ -7,3 +7,4 @@ file_object = open("log.txt",mode="wb")
 file_object.write(data)
 # 关闭文件
 file_object.close()
+print(name)
