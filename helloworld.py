@@ -8,7 +8,4 @@ file_object.write(data)
 # 关闭文件
 file_object.close()
 print(name)
-prnt('约饭')
-prnt('约饭')
-prnt('约饭')
-prnt('约饭')
+prnt('约饭1')
